@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+}
+
+p {
+  margin-bottom: 0;
+  color: white;
+}
+
+h1{
+  color:orange;
+  font-size: 30px;
+}
+.container{
+  width: 100%;
+}
+
+.contact{
+  background-color: #9fdeff;
+  padding: 8px 0;
+}
+
+.text, textarea{
+  width: 200px;
+  border-radius: 7px;
+  border: none;
+}
+
+.button{
+  color:orange;
+}
+
+.submit{
+  width: 200px;
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 7px;
+  margin: 10px;
+  padding: 5px;
+}
